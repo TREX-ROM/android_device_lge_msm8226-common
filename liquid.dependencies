@@ -3,7 +3,7 @@
     "remote": "gh",
     "repository": "TREX-ROM/android_kernel_lge_msm8226",
     "target_path": "kernel/lge/msm8226",
-    "revision": "cm-13.0"
+    "revision": "mm6.0"
   },
   {
     "remote": "gh",  
